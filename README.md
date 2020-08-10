@@ -1,4 +1,4 @@
-Created by:		brad arrowood
+Created by:		Brad Arrowood
 
 Created on:		2020.03.12
 
