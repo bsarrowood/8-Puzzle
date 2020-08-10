@@ -1,11 +1,11 @@
-# created by:		     Brad Arrowood
-# created on:		     2020.03.12
-# last updated:     2020.04.21
-# python version:   3.7.6
-# run format:       python3 driver.py <method> <board>
-# file:     		      driver.py
-# addendums:        state.py
-# notes:    		      8-puzzle solver using BFS, DFS, and A* algorithms
+# created by:		Brad Arrowood
+# created on:		2020.03.12
+# last updated:		2020.04.21
+# python version:	3.7.6
+# run format:		python3 driver.py <method> <board>
+# file:			driver.py
+# addendums:		state.py
+# notes:		8-puzzle solver using BFS, DFS, and A* algorithms
 
 """
 When executed, your program will create / write to a file called output.txt, containing the following statistics:
