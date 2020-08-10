@@ -1,9 +1,9 @@
-Created by:		    Brad Arrowood
+Created by:	Brad Arrowood
 
-Created on:       2020.03.12
+Created on:	2020.03.12
 
-Last updated:     2020.04.21
+Last updated:	2020.04.21
 
-Python version:   3.7.6
+Python version:	3.7.6
 
-Notes:    		    8-puzzle solver using BFS, DFS, and A* algorithms
+Notes:		8-puzzle solver using BFS, DFS, and A* algorithms
